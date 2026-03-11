@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/aem-block-collection/:/",
-    "/content/aem-block-collection/metadata:/metadata.json",
-    "/content/aem-block-collection/configuration:/.helix/config.json"
+    "/content/madridistas-platinum-xwalk/:/",
+    "/content/madridistas-platinum-xwalk/metadata:/metadata.json",
+    "/content/madridistas-platinum-xwalk/configuration:/.helix/config.json"
   ]
 }
